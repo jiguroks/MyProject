@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-01T13:22:11 EST" name="Default suite" finished-at="2022-02-01T13:22:59 EST" duration-ms="48166">
+    <groups>
+    </groups>
+    <test started-at="2022-02-01T13:22:11 EST" name="Default test" finished-at="2022-02-01T13:22:59 EST" duration-ms="48166">
+      <class name="testlayer.Signuptest">
+        <test-method is-config="true" signature="inisetup()[pri:0, instance:testlayer.Signuptest@1dde4cb2]" started-at="2022-02-01T13:22:11 EST" name="inisetup" finished-at="2022-02-01T13:22:15 EST" duration-ms="4002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inisetup -->
+        <test-method signature="Signupclick()[pri:1, instance:testlayer.Signuptest@1dde4cb2]" started-at="2022-02-01T13:22:15 EST" name="Signupclick" finished-at="2022-02-01T13:22:26 EST" duration-ms="10641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signupclick -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer.Signuptest@1dde4cb2]" started-at="2022-02-01T13:22:26 EST" name="close" finished-at="2022-02-01T13:22:30 EST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="inisetup()[pri:0, instance:testlayer.Signuptest@1dde4cb2]" started-at="2022-02-01T13:22:30 EST" name="inisetup" finished-at="2022-02-01T13:22:32 EST" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inisetup -->
+        <test-method signature="Loginclick()[pri:2, instance:testlayer.Signuptest@1dde4cb2]" started-at="2022-02-01T13:22:32 EST" name="Loginclick" finished-at="2022-02-01T13:22:59 EST" duration-ms="26917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginclick -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer.Signuptest@1dde4cb2]" started-at="2022-02-01T13:22:59 EST" name="close" finished-at="2022-02-01T13:22:59 EST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testlayer.Signuptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
